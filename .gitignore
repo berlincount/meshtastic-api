@@ -3,3 +3,7 @@ node_modules
 .pnpm-debug.log
 dist
 .DS_Store
+.vscode/settings.json
+
+#Dotfiles 
+.dotfiles/
